@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "npm update",
+      "command": "npm",
+      "args": ["update"],
+      "presentation": {
+        "reveal": "silent"
+      }
+    }
+  ]
+}
